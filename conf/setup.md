@@ -6,3 +6,4 @@ apt update && apt upgrade -y
 apabila di awal kalian tidak memilih opsi "repo otomatis" maka tambahkan dahulu di /etc/apt/sources.list
 
 ibrahim
+falah
